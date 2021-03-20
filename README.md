@@ -8,14 +8,14 @@
 推测可能与 DPI 屏幕有关，HDMI 屏幕应该无此问题
 
 ## 二、安装
-`xkscreensaver` 需要依赖 `xprintidle` 才能正常运行
+`XingKongScreenSaver` 需要依赖 `xprintidle` 才能正常运行
 ```Shell
 sudo apt-get install xprintidle
 ```
 
 编译或下载 `xkscreensaver` 可执行文件，拷贝到 `/home/pi/` 目录下
 >注意：<br>
-直接编译完成后的文件名为 `XKScreenSaver`，为了方便期间，建议重命名为小写 `xkscreensaver`
+直接编译完成后的文件名为 `XKScreenSaver`，方便起见，建议重命名为小写 `xkscreensaver`
 
 然后运行
 
