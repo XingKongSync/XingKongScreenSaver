@@ -8,6 +8,9 @@ Group=pi
 LimitNOFILE=100000
 LimitNPROC=100000
 ExecStart=/home/pi/xkscreensaver
+Restart=always
+StartLimitIntervalSec=0
+RestartSec=1
 StandardOutput=null
 
 [Install]
