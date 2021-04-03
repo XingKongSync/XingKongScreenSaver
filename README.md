@@ -7,6 +7,8 @@
 
 推测可能与 DPI 屏幕有关，HDMI 屏幕应该无此问题
 
+屏幕详情：[4inch DPI LCD (B)](https://www.waveshare.net/shop/4inch-DPI-LCD-B.htm)
+
 ## 二、安装
 `XingKongScreenSaver` 需要依赖 `xprintidle` 才能正常运行
 ```Shell
